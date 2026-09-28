@@ -384,6 +384,9 @@ If you already have Paperclip configured, rerunning `onboard` keeps the existing
 See [`doc/INSTALLING.md`](doc/INSTALLING.md) for pinned versions, canary and
 git-ref installs, updates, rollback, service management, and uninstalling.
 
+To use Paperclip as a desktop app window or a phone home-screen app, install the
+UI as a PWA — see [`doc/INSTALL-AS-APP.md`](doc/INSTALL-AS-APP.md).
+
 Or manually:
 
 ```bash

@@ -271,6 +271,12 @@ The managed `paperclipai update` command can update managed and global npm
 installs. For source checkouts it reports the appropriate git workflow instead
 of modifying the checkout automatically.
 
+## Install The App On A Phone Or Desktop
+
+The Paperclip UI installs as a Progressive Web App, so the same server can be
+opened as a desktop app window or a phone home-screen app with no extra build.
+See [`doc/INSTALL-AS-APP.md`](INSTALL-AS-APP.md).
+
 ## Diagnose An Installation
 
 Run:
